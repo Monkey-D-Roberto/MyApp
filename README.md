@@ -1,12 +1,10 @@
 
 ## 🚀 Introduction
 
-Welcome to adolfha-tech-crm! This project is a modern CRM application built with the latest web technologies and data fetched from dummyjson. Whether you're here to understand the source code or contribute, this guide should give you a comprehensive overview of the project.
-
-![Screenshot](/src/assets/screenshot.png)
+ Este proyecto es una aplicación CRM creada con nextjs y datos obtenidos de dummyjson user / producs .
 
 
-## 🛠 Technologies Used:
+## 🛠 Tecnologias usadas:
 
  - **Vite:** A lightning-fast build tool and development server.
  - **React 18:** A JavaScript library for building user interfaces.
@@ -27,15 +25,15 @@ Welcome to adolfha-tech-crm! This project is a modern CRM application built with
 
 ## 🌐 Project Overview:
 
-**Login Page:** Features a sleek login form. Logging in is done using hardcoded user credentials. Upon successful authentication, users are granted a token and redirected to the /users page.
+**Login Page:** El inicio de sesión se realiza utilizando credenciales de usuario codificadas. Tras una autenticación exitosa, a los usuarios se les otorga un token y se les redirige a la página /users.
  
-**Dashboard:** The first entry point after logging in.
+**Dashboard:** El primer punto de entrada después de iniciar sesión
 
-- Chart: Leveraging the power of React ApexCharts, it presents visually appealing and informative graphs.
+- Chart:Aprovechando el poder de React ApexCharts, presenta gráficos informativos y visualmente atractivos.
 
-- Products Overview: Provides a concise view of products based on the categories fetched from the /products/category endpoint of the dummyjson API.
+- Descripción general de productos: proporciona una vista concisa de los productos según las categorías obtenidas del punto final /products/category de la API dummyjson.
 
-**Users Page:** Displays a table listing user details fetched from the dummyjson API, showcasing:
+**Users Page:** Muestra una tabla que enumera los detalles del usuario obtenidos de la API dummyjson y muestra:
 
 *firstName*
 *lastName*
@@ -46,35 +44,38 @@ Welcome to adolfha-tech-crm! This project is a modern CRM application built with
 *birthDate*
 *image*
 
-**Todos Page:** Fetches data from the /todos endpoint of the dummyjson API. It offers:
+**Todos Page:** Obtiene datos del punto final /todos de la API dummyjson. Ofrece:
 
- - Filtering by userId and todo content
- - Adding a new item via a modal
- - Toggling the completed status of a selected item
- - Deleting a selected item
+ - Filtrado por ID de usuario y contenido de tareas pendientes
+ - Agregar un nuevo elemento a través de un modal
+ - Alternar el estado completado de un elemento seleccionado
+ - Eliminar un elemento seleccionado
 
-🧑‍💻 Getting Started:
+🧑‍💻 Empezando:
 
-Clone the Repository:
 
-    git clone https://github.com/bsrakts/react-redux-typescript-adolfha-tech-crm.git
+Clonar el repositorio:
+
+    git clone https://github.com/Monkey-D-Roberto/MyApp.git
 
 Navigate to the directory:
 
-    cd adolfha-tech-crm-project
+    cd MyApp
 
-Install Dependencies:
+Instalar dependencias:
 
     npm install
 
-Run the Application in Development Mode:
+
+Ejecute la aplicación en modo de desarrollo:
 
     npm run dev
 
-🤝 Contributing:
+🤝 Practicandooo:
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Diviertete ..
 
-  
+  @Roberto_
 
-Hope you enjoy working with [adolfha-tech-crm](https://github.com/bsrakts/react-redux-typescript-adolfha-tech-crm)! If you like the project, don't forget to give it a ⭐!
+
+Espero que disfrutes trabajando con (https://github.com/Monkey-D-Roberto/MyApp.git)! Si te gusta el proyecto no olvides darle un like!
