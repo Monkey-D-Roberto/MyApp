@@ -75,7 +75,7 @@ Ejecute la aplicación en modo de desarrollo:
 
 Diviertete ..
 
-  @Roberto_
+   usa y mejora este aplicativo .....  by @Roberto
 
 
 Espero que disfrutes trabajando con (https://github.com/Monkey-D-Roberto/MyApp.git)! Si te gusta el proyecto no olvides darle un like!
